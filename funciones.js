@@ -13,7 +13,7 @@ var miFuncion = function(a,b){
 miFuncion();
 
 function saludarEstudiante(estudiante){
-    console.log("Hola ${Norma}")
+    console.log("Hola ${estudiante}")
 }
 saludarEstudiante();
 
